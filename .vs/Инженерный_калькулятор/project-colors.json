@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e43456ff-ad99-4f15-92c3-ccbcd990af1a": {
+      "ProjectGuid": "e43456ff-ad99-4f15-92c3-ccbcd990af1a",
+      "DisplayName": "Инженерный_калькулятор",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
